@@ -1,4 +1,4 @@
-# antmedia_streaming
+# Flutter Video Streaming App
 
 A new Flutter project.
 
